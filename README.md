@@ -4,14 +4,14 @@ Une application Python avec interface graphique pour fusionner facilement des di
 
 ## Fonctionnalités
 
-- ✅ Interface graphique simple et intuitive
-- ✅ Fusion automatique de tous les fichiers .xlsx et .xls d'un dossier
-- ✅ Option pour ajouter une colonne avec le nom du fichier source
-- ✅ Gestion des en-têtes (option pour ignorer les en-têtes des fichiers sources)
-- ✅ Barre de progression en temps réel
-- ✅ Journal détaillé des opérations
-- ✅ Gestion d'erreurs robuste
-- ✅ Support des formats Excel (.xlsx et .xls)
+-  Interface graphique simple et intuitive
+-  Fusion automatique de tous les fichiers .xlsx et .xls d'un dossier
+-  Option pour ajouter une colonne avec le nom du fichier source
+-  Gestion des en-têtes (option pour ignorer les en-têtes des fichiers sources)
+-  Barre de progression en temps réel
+-  Journal détaillé des opérations
+-  Gestion d'erreurs robuste
+-  Support des formats Excel (.xlsx et .xls)
 
 ## Installation
 
